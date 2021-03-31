@@ -1,4 +1,5 @@
 # es_extended
+es_extended cash as an item modify
 
 es_extended is a roleplay framework for FiveM. It is developed on top of EssentialMode (aka ES), thus commonly named ESX - the **Es**sentialMode E**x**tended framework for FiveM.
 
